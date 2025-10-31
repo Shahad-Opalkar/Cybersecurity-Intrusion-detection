@@ -1,0 +1,16 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+
+# Ignore model checkpoints (optional)
+*.joblib
+
+# Ignore data files (optional)
+data/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
